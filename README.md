@@ -5,11 +5,11 @@ author: michele.lombardi2@unibo.it
 
 # Sequence Data in Anomaly Detection #
 
-This is the second lecture of the 2021/2022 edition of the "AI in the Industry" course, from [University of Bologna](https://www.unibo.it). Each lecture consists of a tutorial that tackles a simplified industrial problem and tackles it using AI techniques, from Machine Learning to Combinatorial Optimization (and later on their combination).
+This is the third lecture of the 2021/2022 edition of the "AI in the Industry" course, from [University of Bologna](https://www.unibo.it). Each lecture consists of a tutorial that tackles a simplified industrial problem and tackles it using AI techniques, from Machine Learning to Combinatorial Optimization (and later on their combination).
 
 While the whole course looks like cookbook, the real goal is using examples to teach how industrial problem can be methodically approaches, analyzed, and tackles using a combination of techniques.
 
-This tutorial in particular deals with techniques for handling sequence data, and for dealing with periods in time series. No new dataset is introduced, which frankly is a bit bring, but it helps focusing on the new techniques.
+This tutorial in particular deals with techniques for filling missing values in time series, with an emphasis on Gaussian Processes. Multiplicative ensembles are also introduces as a tool to control model variance.
 
 # Accessing the Lecture #
 
