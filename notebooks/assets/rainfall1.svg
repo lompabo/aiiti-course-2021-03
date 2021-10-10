@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="rainfall1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.0042372"
+     inkscape:cx="1612.169"
+     inkscape:cy="332.59076"
+     inkscape:window-width="1912"
+     inkscape:window-height="1134"
+     inkscape:window-x="4"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid857" />
+    <sodipodi:guide
+       position="230,860"
+       orientation="0,-1"
+       id="guide22350" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1058" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path1079" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1058-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1079-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker22178"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path22176" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart-9-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1058-1-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1079-7-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker31942"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path31940" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow2Mend)"
+       d="M 230,20 V 220 L 30,360"
+       id="path859"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 230,220 260,80"
+       id="path861"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="34.754456"
+       y="325.49219"
+       id="text2640"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan2638"
+         x="34.754456"
+         y="325.49219"
+         style="font-size:21.3333px"
+         dy="0 5"><tspan
+           style="font-size:24px"
+           id="tspan12602">x</tspan><tspan
+           style="font-size:16px"
+           id="tspan13200">0</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="458.88477"
+       y="276.79895"
+       id="text2640-3"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan2638-6"
+         x="458.88477"
+         y="276.79895"
+         style="font-size:21.3333px"
+         dy="0"><tspan
+           style="font-size:24px"
+           id="tspan12602-7">x</tspan><tspan
+           style="font-size:16px"
+           id="tspan13200-5"
+           dy="5">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="203.51953"
+       y="24.578918"
+       id="text2640-3-3"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan2638-6-5"
+         x="203.51953"
+         y="24.578918"
+         style="font-size:21.3333px"
+         dy="0"><tspan
+           style="font-size:24px"
+           id="tspan12602-7-6">y</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart-9);marker-end:url(#Arrow2Mend-2)"
+       d="M 848.09004,19.999996 V 220 l -200,140"
+       id="path859-0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-2)"
+       d="M 848.09004,220 1108.09,300"
+       id="path861-9"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="652.84448"
+       y="325.49219"
+       id="text2640-36"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan2638-0"
+         x="652.84448"
+         y="325.49219"
+         style="font-size:21.3333px"
+         dy="0 5"><tspan
+           style="font-size:24px"
+           id="tspan12602-6">x</tspan><tspan
+           style="font-size:16px"
+           id="tspan13200-2">0</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="1076.9749"
+       y="276.79895"
+       id="text2640-3-6"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan2638-6-1"
+         x="1076.9749"
+         y="276.79895"
+         style="font-size:21.3333px"
+         dy="0"><tspan
+           style="font-size:24px"
+           id="tspan12602-7-8">x</tspan><tspan
+           style="font-size:16px"
+           id="tspan13200-5-7"
+           dy="5">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="821.60956"
+       y="24.57892"
+       id="text2640-3-3-9"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan2638-6-5-2"
+         x="821.60956"
+         y="24.57892"
+         style="font-size:21.3333px"
+         dy="0"><tspan
+           style="font-size:24px"
+           id="tspan12602-7-6-0">y</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#00ccff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 877.30616,267.34409 V 130.51545"
+       id="path22427"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#00ccff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 770.49712,332.70734 V 249.21751"
+       id="path22427-2"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#00ccff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 939.27751,303.48983 V 241.48666"
+       id="path22427-2-3"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;fill:#00aad4;fill-opacity:1;stroke:none"
+       x="858.81647"
+       y="121.53584"
+       id="text24397"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan24395"
+         x="858.81647"
+         y="121.53584"
+         style="font-size:24px;fill:#00aad4">0.7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;fill:#00aad4;fill-opacity:1;stroke:none"
+       x="917.79059"
+       y="230.03154"
+       id="text24397-7"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan24395-5"
+         x="917.79059"
+         y="230.03154"
+         style="font-size:24px;fill:#00aad4">0.2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;fill:#00aad4;fill-opacity:1;stroke:none"
+       x="749.71161"
+       y="238.32477"
+       id="text24397-7-9"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan24395-5-2"
+         x="749.71161"
+         y="238.32477"
+         style="font-size:24px;fill:#00aad4">0.3</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart-9-2);marker-end:url(#Arrow2Mend-2-9)"
+       d="M 1487.1102,20 V 220 L 1287.1101,360"
+       id="path859-0-3"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-2-9)"
+       d="m 1487.1102,220 259.9999,80"
+       id="path861-9-6"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="1291.8646"
+       y="325.49219"
+       id="text2640-36-1"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan2638-0-2"
+         x="1291.8646"
+         y="325.49219"
+         style="font-size:21.3333px"
+         dy="0 5"><tspan
+           style="font-size:24px"
+           id="tspan12602-6-9">x</tspan><tspan
+           style="font-size:16px"
+           id="tspan13200-2-3">0</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="1715.9949"
+       y="276.79895"
+       id="text2640-3-6-1"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan2638-6-1-9"
+         x="1715.9949"
+         y="276.79895"
+         style="font-size:21.3333px"
+         dy="0"><tspan
+           style="font-size:24px"
+           id="tspan12602-7-8-4">x</tspan><tspan
+           style="font-size:16px"
+           id="tspan13200-5-7-7"
+           dy="5">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="1460.6296"
+       y="24.578915"
+       id="text2640-3-3-9-8"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan2638-6-5-2-4"
+         x="1460.6296"
+         y="24.578915"
+         style="font-size:21.3333px"
+         dy="0"><tspan
+           style="font-size:24px"
+           id="tspan12602-7-6-0-5">y</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#00ccff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1516.3263,267.34409 V 130.51545"
+       id="path22427-0"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#00ccff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1409.5172,332.70734 V 249.21751"
+       id="path22427-2-36"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#00ccff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1578.2976,303.48983 V 241.48666"
+       id="path22427-2-3-1"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;fill:#00aad4;fill-opacity:1;stroke:none"
+       x="1501.8365"
+       y="117.53584"
+       id="text24397-0"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan24395-6"
+         x="1501.8365"
+         y="117.53584"
+         style="font-size:24px;fill:#00aad4"
+         dy="0 5">y<tspan
+   style="font-size:16px"
+   id="tspan38103">0</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;fill:#00aad4;fill-opacity:1;stroke:none"
+       x="1566.4377"
+       y="225.02594"
+       id="text24397-0-5"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan24395-6-5"
+         x="1566.4377"
+         y="225.02594"
+         style="font-size:24px;fill:#00aad4"
+         dy="0">y<tspan
+   style="font-size:16px"
+   id="tspan38103-4"
+   dy="5">2</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;fill:#00aad4;fill-opacity:1;stroke:none"
+       x="1396.9604"
+       y="230.10771"
+       id="text24397-0-5-7"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan24395-6-5-6"
+         x="1396.9604"
+         y="230.10771"
+         style="font-size:24px;fill:#00aad4"
+         dy="0">y<tspan
+   style="font-size:16px"
+   id="tspan47761"
+   dy="5">1</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;marker-start:url(#Arrow1Mstart-9);marker-end:url(#Arrow2Mend)"
+       d="m 1409.5172,332.70734 106.8091,-65.36325"
+       id="path55008"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;marker-start:url(#Arrow1Mstart-9);marker-end:url(#Arrow2Mend)"
+       d="m 1578.2976,303.48983 -61.9713,-36.14574"
+       id="path55010"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;marker-start:url(#Arrow1Mstart-9);marker-end:url(#Arrow2Mend)"
+       d="m 1409.5172,332.70734 168.7804,-29.21751"
+       id="path55012"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/AI in the Industry/2020-2021/lectures/filling-gp/notebooks/assets/rain3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+  </g>
+</svg>
